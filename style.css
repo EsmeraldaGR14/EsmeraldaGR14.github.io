@@ -1,5 +1,4 @@
 /* Write your CSS here! */
-
 .header {
   display: grid;
   grid-template-columns: 300px 500px;
@@ -17,10 +16,10 @@
 
 .footer {
   display: grid;
+  /* grid-template-columns: 4fr; */
   grid-template-rows: 30px;
   grid-row: 1 / -2;
 }
-
 /* Do not change the CSS below. */
 
 .header {
@@ -64,4 +63,3 @@
   padding: 10px;
   text-align: center;
 }
-
